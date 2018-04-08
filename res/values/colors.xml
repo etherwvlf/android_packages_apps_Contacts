@@ -16,8 +16,8 @@
 <resources>
 
     <color name="quickcontact_name_detail_background">#66000000</color>
-    <color name="quickcontact_entry_sub_header_text_color">#737373</color>
-    <color name="quickcontact_entry_header_text_color">#202020</color>
+    <color name="quickcontact_entry_sub_header_text_color">#ffffff</color>
+    <color name="quickcontact_entry_header_text_color">#ffffff</color>
 
     <color name="background_social_updates">#ffeeeeee</color>
 
@@ -46,7 +46,7 @@
     <color name="divider_line_color_light">#e0e0e0</color>
 
     <!-- Color of the text on an ExpandingEntryCard button -->
-    <color name="expanding_entry_card_button_text_color">@android:color/black</color>
+    <color name="expanding_entry_card_button_text_color">#ffffff</color>
 
     <!-- Background color for an ExpandingEntryCard -->
     <color name="expanding_entry_card_background_color">#ffffff</color>
@@ -57,9 +57,9 @@
     <color name="call_arrow_green">#2aad6f</color>
     <color name="call_arrow_red">#ff2e58</color>
 
-    <color name="contact_all_list_background_color">#FFFFFF</color>
-    <color name="contact_favorites_list_background_color">#FFFFFF</color>
-    <color name="group_list_background_color">#FFFFFF</color>
+    <color name="contact_all_list_background_color">#000000</color>
+    <color name="contact_favorites_list_background_color">#000000</color>
+    <color name="group_list_background_color">#000000</color>
 
     <!-- Background color of pinned header items. -->
     <color name="list_item_pinned_header_color">@color/background_primary</color>
