@@ -16,8 +16,8 @@
 <resources>
 
     <color name="quickcontact_name_detail_background">#66000000</color>
-    <color name="quickcontact_entry_sub_header_text_color">#ffffff</color>
-    <color name="quickcontact_entry_header_text_color">#ffffff</color>
+    <color name="quickcontact_entry_sub_header_text_color">#ff0000</color>
+    <color name="quickcontact_entry_header_text_color">#00ff00</color>
 
     <color name="background_social_updates">#ffeeeeee</color>
 
